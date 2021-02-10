@@ -14,5 +14,10 @@ cin>>b;
 ans=a*b;
 cout<<"Answer is: <<ans;
 
+  kxcn kjnxc nobhc piubziocubpiuUBpi ubczpi u
+  ZC lkjb lkjbiSDbhvpiub F] bIU b
+   BX ioDUB pubiXPI 
+  Kb ub n;jbisub LXKblN x:cc 
+    SDVBSPI UBPIVUB
 return 0;
 }
