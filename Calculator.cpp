@@ -11,7 +11,7 @@ cin>>a;
 cout<<"Enter 2nd no: ";
 cin>>b;
 
-ans=a+b;
+ans=a*b;
 cout<<"Answer is: <<ans;
 
 return 0;
