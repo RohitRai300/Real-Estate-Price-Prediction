@@ -13,6 +13,8 @@ cin>>b;
 
 ans=a*b;
 cout<<"Answer is: <<ans;
+ans=a-b;
+cout<<"Answer is: <<ans;
 
 return 0;
 }
