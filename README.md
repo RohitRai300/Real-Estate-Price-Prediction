@@ -1,8 +1,8 @@
 # Real-Estate/House-Price-Prediction
 
-Machine Learning Project
+Machine Learning and Data Science Project
 
-This Project is inspired from the idea "Zestimate" of "Zillow" website (Real Estate Business WebApplication), this takes basic input such as House Squarefoot area, number of bedrooms, number of bathrooms, location and based on these parameters predicts the Estimated Price of the House.\
+This Project is inspired from the idea of "Zestimate" feature embededd in "Zillow" website (Real Estate Business WebApplication), which takes basic input such as House Squarefoot area, number of bedrooms, number of bathrooms, location and based on these parameters predicts the Estimated Price of the House.\
 This work is carried out in order to develop understanding and Learning the various underlying concepts of Machine Learning and Data Science in modern day applications. 
 
 **Modules Included :**
