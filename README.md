@@ -31,5 +31,3 @@ This work is carried out in order to develop understanding and Learning the vari
 6) HTML,CSS,JS - Front End Development
 
 
-**Credits:**
-CodeBasics
